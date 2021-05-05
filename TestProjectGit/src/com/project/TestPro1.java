@@ -10,8 +10,9 @@ public class TestPro1 {
 		
 		for (int i = 0; i < arrays.length; i++) {
 			System.out.println(arrays[i]);
+			i++;
 		}
-		
+		System.out.println("done");
 	}
 
 }
